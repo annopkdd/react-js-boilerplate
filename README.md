@@ -4,3 +4,4 @@
 - react-router
 - react-icons
 - axios
+- google-map-react
